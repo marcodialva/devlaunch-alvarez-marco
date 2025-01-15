@@ -3,3 +3,12 @@ Que es bitcoin ?
 Bitcoin es una moneda digital descentralizada creada en 2009 por un individuo o grupo bajo 
 el seudónimo de Satoshi Nakamoto. Su propósito principal es funcionar como un medio de 
 intercambio independiente de instituciones financieras tradicionales.
+
+A diferencia de las monedas tradicionales, Bitcoin opera mediante una tecnología llamada blockchain,
+ un registro público y transparente que asegura la veracidad de las transacciones. Se basa en un
+  sistema de consenso distribuido que elimina la necesidad de intermediarios, ofreciendo mayor 
+  seguridad y control a los usuarios. La emisión de bitcoins es limitada a 21 millones, lo que 
+  refuerza su carácter deflacionario. Además, Bitcoin se utiliza tanto como inversión como medio 
+  de pago.
+
+  
