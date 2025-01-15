@@ -1,2 +1,5 @@
 Que es bitcoin ?
 
+Bitcoin es una moneda digital descentralizada creada en 2009 por un individuo o grupo bajo 
+el seudónimo de Satoshi Nakamoto. Su propósito principal es funcionar como un medio de 
+intercambio independiente de instituciones financieras tradicionales.
