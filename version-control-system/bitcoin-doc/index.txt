@@ -11,4 +11,8 @@ A diferencia de las monedas tradicionales, Bitcoin opera mediante una tecnologí
   refuerza su carácter deflacionario. Además, Bitcoin se utiliza tanto como inversión como medio 
   de pago.
 
-  
+  Bitcoin ha revolucionado el concepto de dinero al introducir una alternativa digital 
+  descentralizada. Aunque enfrenta desafíos como la volatilidad y preocupaciones regulatorias, 
+  su tecnología subyacente ha sentado las bases para la innovación financiera global.                 
+
+Continurá 
