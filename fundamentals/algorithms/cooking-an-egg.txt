@@ -1,0 +1,21 @@
+Proporciona una explicación detallada en un archivo.txt de las acciones que realizarías 
+al cocinar un huevo.
+
+SOLUCIÓN: 
+
+Tener un huevo, sartén, sal, algún tipo de grasa, medio para cocinar el huevo (cocina), un plato.
+Definir que tipo de huevo cocinaremos (en este caso será: huevo frito).
+
+Ponemos a calentar el medio de cocción, que en nuestro caso será la cocina, y colocamos el sartén sobre el disco.
+
+Una vez caliente el sartén.
+
+Colocamos una cantidad pequeña de la grasa escogida y la dispersaremos por el sartén.
+Agarramos el huevo y ligeramente lo estrellamos su ecuador sobre alguna superficie plana horizontal (mueble de cocina).
+Abrimos el huevo lo lo vertimos sobre el sartén caliente.
+Colocamos una pizca de sal.
+
+Una vez que alcance la cocción deseada retiramos del sartén y lo colocamos sobre el plato.
+
+Apagamos la cocina.
+
